@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Jmw.RestEase.Extensions</id>
+    <version>0.1.0</version>
+    <description>
+      Some extensions for RestEase.
+    </description>
+    <projectUrl>https://github.com/jmw-fr/Jmw.DomainDrivenDesign</projectUrl>
+    <authors>Jean-Marc Weeger</authors>
+    <license type="expression">MIT</license>
+    <dependencies>
+      <dependency id="RestEase" version="1.4.7" />
+      <dependency id="NLog" version="4.5.11" />
+      <dependency id="Jmw.NLog.Extensions" version="0.1.0" />
+    </dependencies>
+  </metadata>
+</package>
